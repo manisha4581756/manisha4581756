@@ -7,11 +7,11 @@
 # 📊 GitHub Stats:
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisha4581756&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api?username=manisha4581756&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manisha4581756&theme=tokyonight&cache_seconds=86400)
+![](https://streak-stats.demolab.com?user=manisha4581756&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manisha4581756&layout=compact&theme=tokyonight&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manisha4581756&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 
 
